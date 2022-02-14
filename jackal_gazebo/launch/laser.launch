@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="jackal_gazebo" type="scan.py" name="area_project" output="screen">
+	
+	</node>
+</launch>
